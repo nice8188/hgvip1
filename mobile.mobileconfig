@@ -447,13 +447,13 @@ Tkypespgjjrnyy86X7WV7bJXfNnX+D+b2lvyu0WoMQAAAABJRU5ErkJggg==</data>
         <key>PayloadType</key>
         <string>com.apple.webClip.managed</string>
         <key>PayloadUUID</key>
-        <string>729c32a9-a2e3-4ddc-8b10-36418b939860</string>
+        <string>c16bb2d5-14b9-4922-9cf4-a2eb4e809d3a</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>Precomposed</key>
         <false></false>
         <key>URL</key>
-        <string>https://www.hg15.cc/mobile-client/index/index.html</string>
+        <string>https://hg15.cc/mobile-client/index/index.html</string>
       </dict>
     </array>
     <key>PayloadDescription</key>
@@ -469,7 +469,7 @@ Tkypespgjjrnyy86X7WV7bJXfNnX+D+b2lvyu0WoMQAAAABJRU5ErkJggg==</data>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>8455d792-64fc-4aa3-b206-b925768077a4</string>
+    <string>a2611361-c1c1-4355-b2fa-029c0166cd6e</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
   </dict>
